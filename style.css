@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+<<<<<<< HEAD
 p{
     color: red;
+=======
+h1{
+    color: green;
+>>>>>>> 009c5a764d7c921436a5a9ddb28b9e5ade1defa6
 }
